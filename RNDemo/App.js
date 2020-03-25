@@ -31,7 +31,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 function HomeScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Home!!!!</Text>
+      <Text>我是首页</Text>
     </View>
   );
 }
@@ -39,7 +39,7 @@ function HomeScreen() {
 function SettingsScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Settings!</Text>
+      <Text>Settings!!!!</Text>
     </View>
   );
 }
